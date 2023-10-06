@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, Helvetica, sans-serif; /* Sets the font and provides back-up fonts */
+    font-size: 14px;
+    color: black; 
+    margin-left: 30px;   /* Gives spacing around all four margins */
+    margin-right: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.personal_details {
+    text-align: center;  /* Centres the text on these three lines */
+    margin-bottom: 50px;
+    border-color: black;
+    border-width: 10px;  /* Creates the thickness of the lines */
+    border-style: double;  /* My preferred preference for this document is double lines */
+}
+
+#bio {
+   font-size: 16px;  /* Increases the font size for this div */
+   border-bottom: 10px double black; 
+   border-width: 5px;
+   margin-bottom: 50px;  
+    
+}
+
+h2 {
+    margin-bottom: 20px; /* Creates a bit of white space on all h2's*/
+    margin-top: 20px;
+}
+
+.education {
+   border-bottom: 10px double black;  /* Creates a double line */
+   border-width: 5px;
+   margin-bottom: 50px;  /* Allows for some spacing */
+}
+
+.courses {
+
+    border-bottom: 10px double black; 
+    border-width: 5px;
+    margin-bottom: 50px; 
+}
+
+.work {
+   border-bottom: 10px double black; 
+   border-width: 5px;
+   margin-bottom: 50px;  
+
+}
+
+.skills {
+    border-bottom: 10px double black; /* All could be combined as one but I decided to repeat the code */ 
+    border-width: 5px;
+    margin-bottom: 50px;  
+    
+}
+
+#intrests {
+    font-size: 16px; /* Sets the font size for this paragraph*/
+}
